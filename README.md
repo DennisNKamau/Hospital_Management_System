@@ -1,6 +1,7 @@
 # Hospital_Management_System
 Hospital Management System
 Overview
+
 The Hospital Management System is designed to facilitate the management of hospital records through a simple CLI. Users can manage patients, doctors, appointments, and medical records with ease. This README provides detailed information on the project's structure and how to use it. It uses SQLite as its database to store and retrieve data efficiently.
 
 File Descriptions
